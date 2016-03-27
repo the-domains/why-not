@@ -1,7 +1,7 @@
 name: why not.
 favicon: null
-layout_spectrum: 0.19577039498835802
-typography_spectrum: 0.5682605563197285
+layout_spectrum: 0.30762
+typography_spectrum: 0.0985
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.7336741385515779
-  lightness: 0.5669236620888114
-  saturation: 0.3471564636565745
-  rhythmicContrast: 0.6795496835839003
+    - '#ffffff'
+    - '#000000'
+    - '#171717'
+    - '#979797'
+    - '#b7b7b7'
+  brandStrength: 0.625
+  lightness: 0.375
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
